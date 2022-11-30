@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-29T07:43:37 IST" name="Everjobs Suite" finished-at="2022-11-29T07:43:43 IST" duration-ms="6760">
+    <groups>
+    </groups>
+    <test started-at="2022-11-29T07:43:37 IST" name="Page Object Model Project" finished-at="2022-11-29T07:43:43 IST" duration-ms="6760">
+      <class name="tests.TestBase">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:tests.TestBase@43195e57]" started-at="2022-11-29T07:43:34 IST" name="initialize" finished-at="2022-11-29T07:43:37 IST" duration-ms="3074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="TeardownTest()[pri:0, instance:tests.TestBase@43195e57]" started-at="2022-11-29T07:43:43 IST" name="TeardownTest" finished-at="2022-11-29T07:43:44 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- tests.TestBase -->
+      <class name="tests.FbLoginTest">
+        <test-method signature="init()[pri:0, instance:tests.FbLoginTest@62150f9e]" started-at="2022-11-29T07:43:37 IST" name="init" finished-at="2022-11-29T07:43:43 IST" duration-ms="6725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- tests.FbLoginTest -->
+    </test> <!-- Page Object Model Project -->
+  </suite> <!-- Everjobs Suite -->
+</testng-results>
